@@ -1,3 +1,3 @@
 # github test
 
-To repozytorium będzie słuzyc do ćwiczeń związanych z usługami kontroli wersiji.
+To repozytorium będzie służyc do ćwiczeń związanych z usługami kontroli wersiji.
