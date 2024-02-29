@@ -1,1 +1,2 @@
 "Nowy plik testowy" 
+Działa?
